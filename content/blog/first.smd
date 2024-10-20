@@ -1,0 +1,16 @@
+---
+.title = "First Post",
+.date = @date("2024-10-19T14:00:00"),
+.author = "jlinke",
+.layout = "post.shtml",
+.draft = false,
+--- 
+
+# [Left Section]($section.id('left'))
+The very first post.
+Check out our [about page]($link.page('about'))
+Lorem Ipsum
+
+# [Right Section]($section.id('right'))
+Dolor Something Something
+
